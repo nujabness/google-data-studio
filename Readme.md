@@ -7,15 +7,23 @@
 
 # Liens Certificat 
 
-[Course Certificate Google Data Studio](https://drive.google.com/file/d/17Bkem178DFu4ycQ_4cvXuxweKAeH6wT8/view?usp=sharing)
+![Course Certificate Google Data Studio](Course_Certificate.png)
 
 
 # La méthode d'ingestion des données    
 
 Pour la méthode d'ingestion des données etant données que j'ai suivi un tuto puis fais un dashboard tout seul j'ai été amené a manipulé 
 en source : 
+
+![Test Image 1](1.png)
+
 * **google analytics** 
+
+![Test Image 1](2.png)
+
 * **fichier csv** 
+![Test Image 1](3.png)
+
 
 
 # Explication du choix des données
@@ -44,6 +52,12 @@ Le site sur lequel j'ai récupérer mon dataset pokemon.
 
 [Tuto compte demo google](https://www.youtube.com/watch?v=4xmyomDMnnc&t=330s)
 Le tuto que j'ai suivi pour démarrer sur google data studio.
+
+Dans ce tuto, on apprend à faire un dashboard avec des stats marketing. J'ai suivi sans chercher plus loin, je n'ai malheureusement pas les compétences nécessaire pour comprendre.
+Les données manipulées.
+Néanmoins, j'ai pu faire le tour d'un bon nombre d'outils de visualisation et de quelque fonctionnalité intéressante comme les cartes de densité et les barres dans les tableaux.
+J'ai également appris comment styliser les éléments de mon dashboard.
+
 
 [tips](https://www.solution-bi.com/6-cles-pour-creer-le-tableau-de-bord-ideal/)
 Des conseils synthétisé plus ou moins semblable à ceux de M. CONNESSON.
