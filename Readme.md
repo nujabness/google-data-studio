@@ -9,6 +9,8 @@
 
 [Course Certificate Google Data Studio](https://drive.google.com/file/d/17Bkem178DFu4ycQ_4cvXuxweKAeH6wT8/view?usp=sharing)
 
+![alt Certificat](https://github.com/nujabness/google-data-studio/blob/master/Course_Certificate.pdf)
+
 # La méthode d'ingestion des données    
 
 Pour la méthode d'ingestion des données etant données que j'ai suivi un tuto puis fais un dashboard tout seul j'ai été amené a manipulé 
