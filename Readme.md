@@ -57,8 +57,7 @@ Le site sur lequel j'ai récupérer mon dataset pokemon.
 [Tuto compte demo google](https://www.youtube.com/watch?v=4xmyomDMnnc&t=330s)
 Le tuto que j'ai suivi pour démarrer sur google data studio.
 
-Dans ce tuto, on apprend à faire un dashboard avec des stats marketing. J'ai suivi sans chercher plus loin, je n'ai malheureusement pas les compétences nécessaire pour comprendre.
-Les données manipulées.
+Dans ce tuto, on apprend à faire un dashboard avec des stats marketing. J'ai suivi sans chercher plus loin, je n'ai malheureusement pas les compétences nécessaire pour comprendre les données manipulées.
 Néanmoins, j'ai pu faire le tour d'un bon nombre d'outils de visualisation et de quelque fonctionnalité intéressante comme les cartes de densité et les barres dans les tableaux.
 J'ai également appris comment styliser les éléments de mon dashboard.
 
