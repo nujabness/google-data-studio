@@ -9,7 +9,6 @@
 
 [Course Certificate Google Data Studio](https://drive.google.com/file/d/17Bkem178DFu4ycQ_4cvXuxweKAeH6wT8/view?usp=sharing)
 
-![alt Certificat](https://github.com/nujabness/google-data-studio/blob/master/Course_Certificate.pdf)
 
 # La méthode d'ingestion des données    
 
@@ -22,19 +21,29 @@ en source :
 # Explication du choix des données
 
 J'ai réalisé l'exercice en deux temps, j'ai d'abord suivi un tuto qui me montrait comment utiliser les données google
-analytics avec le compte démo de google, puis j'ai pris un dataset basique, un csv que j'ai récuperer sur [kaggle](https://www.kaggle.com/abcsds/pokemon).
+analytics avec le compte démo de google, puis j'ai pris un dataset basique, un csv que j'ai récupérer sur [kaggle](https://www.kaggle.com/abcsds/pokemon).
 
-J'ai pas trouvé difficulté particuliere a suivre le tuto dans un premier temps. Néanmoins la diffuculté principale n'est pas tant de réaliser des graphiques mais plutot de
-mais plutot de réaliser des graphique pertinant avec une bonne lisibilité. 
+Je n'ai pas trouvé de difficulté particulière à suivre le tuto dans un premier temps. Néanmoins, la difficulté principale n'est pas tant de réaliser des graphiques, mais plutôt de réaliser des graphiques pertinents avec une bonne lisibilité.
 
-J'ai donc éssayé par la suite avec le deuxiemme dataset qui concerne les stats des pokemons de mettre en avant des données interessante :
+J'ai donc essayé par la suite avec le deuxième dataset qui concerne les stats des pokemons de mettre en avant des données intéressantes :
 * Attaque en fonction du type
-* Defense Sp. en fonction du type 
+* Defense Sp. en fonction du type
 * Repartion des pokemon en fonction du type
-* Top Attaque Pokemon 
+* Top Attaque Pokemon
 
 Un avec une charte graphique jaune orange (Pikachu)
+
+Mon ressenti: J'ai malgré tout encore un peu de mal à sélectionner la bonne visualisation en fonction des données dont je dispose. Mais je pense qu'avec de la pratique en milieu professionnel,
+je pourrais rapidement monter en compétences.
 
 
 # Les sources 
 
+[kaggle](https://www.kaggle.com/abcsds/pokemon)
+Le site sur lequel j'ai récupérer mon dataset pokemon.
+
+[Tuto compte demo google](https://www.youtube.com/watch?v=4xmyomDMnnc&t=330s)
+Le tuto que j'ai suivi pour démarrer sur google data studio.
+
+[tips](https://www.solution-bi.com/6-cles-pour-creer-le-tableau-de-bord-ideal/)
+Des conseils synthétisé plus ou moins semblable à ceux de M. CONNESSON.
