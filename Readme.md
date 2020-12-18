@@ -15,18 +15,18 @@
 Pour la méthode d'ingestion des données etant données que j'ai suivi un tuto puis fais un dashboard tout seul j'ai été amené a manipulé 
 en source : 
 
-![Test Image 1](1.png)
+![Image 1](1.png)
 
 
 * **google analytics** 
 
 
-![Test Image 1](2.png)
+![Image 2](2.png)
 
 * **fichier csv** 
 
 
-![Test Image 1](3.png)
+![Image 2](3.png)
 
 
 
